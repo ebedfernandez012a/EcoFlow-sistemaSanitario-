@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../EcoFlow/EcoFlow.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="sistemaSanitario.csproj" />
+</Solution>
